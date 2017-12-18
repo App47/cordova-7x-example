@@ -41,6 +41,7 @@ $ cordova emulate android
 ```
 $ cordova run android --device
 ```
+You can also open the project in AndroidStudio by Import Project and selecting the platforms/android folder. For more information on using Cordova with Android see the [Android Platform Guide](http://cordova.apache.org/docs/en/latest/guide/platforms/android/index.html)
 
 ## Building and running on iOS
 1. Build the iOS app
@@ -52,4 +53,5 @@ $ cordova build ios
 $ cordova run ios [--device] 
 ```
 
+You can also open the iOS project in Xcode by opening platforms/ios/CordovaTest.xcworkspace and running from there.  For more information on using Cordova with iOS see the [iOS Platform Guide](http://cordova.apache.org/docs/en/latest/guide/platforms/ios/index.html)
 
